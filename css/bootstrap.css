@@ -19,7 +19,6 @@ figcaption,
 figure,
 footer,
 header,
-hgroup,
 main,
 menu,
 nav,
@@ -59,10 +58,10 @@ strong {
 dfn {
   font-style: italic;
 }
-/*h1 {
+h1 {
   margin: .67em 0;
   font-size: 2em;
-}*/
+}
 mark {
   color: #000;
   background: #ff0;
