@@ -115,6 +115,7 @@ hr {
 #wrapper {
     min-height:100%;
     position:relative;
+    background-color: rgba(0, 0, 0, 0.3);
 }
 #header {
     background:#ededed;
@@ -129,6 +130,11 @@ hr {
     position:absolute;
     bottom:0;
     left:0;
+}
+p1 {
+    font-size: 22px;
+    line-height: 1.6;
+    color:darkgrey;
 }
 @media screen and (min-width:768px) {
     .brand {
